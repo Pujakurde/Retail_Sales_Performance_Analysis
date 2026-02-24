@@ -1,4 +1,8 @@
-<img width="1280" height="718" alt="ExecutiveRevenueOverview" src="https://github.com/user-attachments/assets/51a5e423-bed4-420e-b551-f6ef2ca8246c" /># 📊 Retail Sales Performance Analysis – Power BI Dashboard
+# 📊 Retail Sales Performance Analysis – Power BI Dashboard
+
+
+Uploading VN20260222_141755.mp4…
+
 
 ## 🚀 Project Overview
 
