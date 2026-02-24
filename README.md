@@ -16,6 +16,8 @@ The dashboard is organized into four analytical layers:
 * Total Revenue, Orders, Customers, AOV (KPI Cards)
 * Monthly Revenue Trend
 * Dynamic slicers (Year, Region, Segment, Category)
+
+  
   <img width="1280" height="718" alt="ExecutiveRevenueOverview" src="https://github.com/user-attachments/assets/7ac09695-102f-4fea-8bd9-31b03a9eaf3c" />
 
 
@@ -25,7 +27,8 @@ The dashboard is organized into four analytical layers:
 * Top 5 Sub-Categories
 * Top Products by Revenue
 * Interactive filtering and drill-down
-* 
+
+  
 <img width="1284" height="720" alt="ProductPerformanceAnalysis" src="https://github.com/user-attachments/assets/32f0cf2b-7095-486e-873c-9c5ad31a169e" />
 
 ### 3️⃣ Regional Sales Analysis
@@ -35,7 +38,8 @@ The dashboard is organized into four analytical layers:
 * Monthly Regional Trend
 * Map-based revenue visualization
 
-* <img width="1240" height="701" alt="RegionalSalesAnalysis" src="https://github.com/user-attachments/assets/6cffe298-fedb-4206-b003-a974a4ce2e43" />
+
+ <img width="1240" height="701" alt="RegionalSalesAnalysis" src="https://github.com/user-attachments/assets/6cffe298-fedb-4206-b003-a974a4ce2e43" />
 
 
 ### 4️⃣ Customer & Segment Analysis
@@ -44,6 +48,7 @@ The dashboard is organized into four analytical layers:
 * Top 10 Customers
 * Segment-wise Order Trends
 * Revenue distribution insights
+
 
 <img width="1277" height="712" alt="CustomerSegmentAnalysis" src="https://github.com/user-attachments/assets/665e1335-97ec-4a95-85ab-e82a9250b016" />
 
