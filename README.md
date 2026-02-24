@@ -1,9 +1,5 @@
 # 📊 Retail Sales Performance Analysis – Power BI Dashboard
 
-
-Uploading VN20260222_141755.mp4…
-
-
 ## 🚀 Project Overview
 
 This project presents a fully interactive multi-page Sales Analytics Dashboard built using Power BI.
